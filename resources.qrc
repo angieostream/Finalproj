@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="gif">
+    <file>D:/gif2.gif</file>
+    <file>D:/analytics_dribbble_gif_gimp.gif</file>
+    <file>0ce63627-22f5-4edd-8aa4-0354da584418.jpg</file>
+    <file>profiletb.png</file>
+    <file>gifsample.gif</file>
+  </qresource>
+  <qresource prefix="photo">
+    <file>D:/5a9721c1-bc85-4ec3-aaa7-493e29b4baf2.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>D:/edit-property-16.ico</file>
+    <file>D:/key-3-16.ico</file>
+    <file>D:/credit-card-6-16.ico</file>
+    <file>D:/user-3-16.ico</file>
+    <file>icons/philippines-peso-currency-symbol.png</file>
+    <file>icons/buy-home.png</file>
+    <file>buy-home.png</file>
+    <file>contract.png</file>
+    <file>gifsample.gif</file>
+    <file>home.png</file>
+    <file>house.png</file>
+    <file>key.png</file>
+    <file>payment-method.png</file>
+    <file>philippines-peso-currency-symbol.png</file>
+    <file>icons/contract.png</file>
+    <file>icons/home.png</file>
+    <file>icons/house.png</file>
+    <file>icons/key.png</file>
+    <file>icons/payment-method.png</file>
+  </qresource>
+</RCC>
