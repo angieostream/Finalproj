@@ -9,6 +9,9 @@
     <file>D:/5a9721c1-bc85-4ec3-aaa7-493e29b4baf2.jpg</file>
   </qresource>
   <qresource prefix="icons">
+    <file>icons8-peso-16.png</file>
+    <file>icons8-trash-16.png</file>
+    <file>icons8-update-16.png</file>
     <file>home.png</file>
     <file>D:/edit-property-16.ico</file>
     <file>D:/key-3-16.ico</file>

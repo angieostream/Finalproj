@@ -311,7 +311,7 @@ QPushButton:disabled {
         <string>DASHBOARD</string>
        </property>
        <property name="icon">
-        <iconset resource="../SAMPLE-main/resources.qrc">
+        <iconset>
          <normaloff>:/icons/house.png</normaloff>:/icons/house.png</iconset>
        </property>
        <property name="iconSize">
@@ -591,7 +591,7 @@ bold: off;</string>
          <rect>
           <x>30</x>
           <y>10</y>
-          <width>251</width>
+          <width>341</width>
           <height>100</height>
          </rect>
         </property>
@@ -631,7 +631,7 @@ QFrame &gt; QLabel {
           </font>
          </property>
          <property name="styleSheet">
-          <string notr="true">font-size: 16px;</string>
+          <string notr="true">font-size: 20px;</string>
          </property>
          <property name="text">
           <string>TOTAL UNITS</string>
@@ -642,13 +642,13 @@ QFrame &gt; QLabel {
           <rect>
            <x>10</x>
            <y>40</y>
-           <width>71</width>
-           <height>31</height>
+           <width>91</width>
+           <height>41</height>
           </rect>
          </property>
          <property name="font">
           <font>
-           <pointsize>18</pointsize>
+           <pointsize>25</pointsize>
            <bold>true</bold>
           </font>
          </property>
@@ -663,9 +663,9 @@ QFrame &gt; QLabel {
        <widget class="QFrame" name="frame_8">
         <property name="geometry">
          <rect>
-          <x>290</x>
+          <x>390</x>
           <y>10</y>
-          <width>271</width>
+          <width>351</width>
           <height>100</height>
          </rect>
         </property>
@@ -705,7 +705,7 @@ QFrame &gt; QLabel {
           </font>
          </property>
          <property name="styleSheet">
-          <string notr="true">font-size: 16px;</string>
+          <string notr="true">font-size: 20px;</string>
          </property>
          <property name="text">
           <string>TOTAL TENANTS</string>
@@ -716,13 +716,13 @@ QFrame &gt; QLabel {
           <rect>
            <x>10</x>
            <y>40</y>
-           <width>71</width>
-           <height>31</height>
+           <width>91</width>
+           <height>41</height>
           </rect>
          </property>
          <property name="font">
           <font>
-           <pointsize>18</pointsize>
+           <pointsize>25</pointsize>
            <bold>true</bold>
           </font>
          </property>
@@ -734,9 +734,9 @@ QFrame &gt; QLabel {
        <widget class="QFrame" name="frame_9">
         <property name="geometry">
          <rect>
-          <x>570</x>
+          <x>760</x>
           <y>10</y>
-          <width>271</width>
+          <width>341</width>
           <height>100</height>
          </rect>
         </property>
@@ -776,7 +776,7 @@ QFrame &gt; QLabel {
           </font>
          </property>
          <property name="styleSheet">
-          <string notr="true">font-size: 16px;
+          <string notr="true">font-size: 20px;
 </string>
          </property>
          <property name="text">
@@ -788,89 +788,18 @@ QFrame &gt; QLabel {
           <rect>
            <x>10</x>
            <y>40</y>
-           <width>81</width>
-           <height>31</height>
+           <width>91</width>
+           <height>41</height>
           </rect>
          </property>
          <property name="font">
           <font>
-           <pointsize>18</pointsize>
+           <pointsize>25</pointsize>
            <bold>true</bold>
           </font>
          </property>
          <property name="text">
           <string>43</string>
-         </property>
-        </widget>
-       </widget>
-       <widget class="QFrame" name="frame_10">
-        <property name="geometry">
-         <rect>
-          <x>850</x>
-          <y>10</y>
-          <width>251</width>
-          <height>100</height>
-         </rect>
-        </property>
-        <property name="styleSheet">
-         <string notr="true">QFrame {
-    background-color: rgba(255, 255, 255, 255); /* White background with full opacity */
-    border-radius: 15px;                        /* Rounded corners */
-    border: 1px solid #d3d3d3;                  /* Light grey border */
-    padding: 5px;                               /* Padding inside the frame */
-}
-
-QFrame &gt; QLabel {
-    background-color: transparent;              /* Transparent background for labels */
-    border: none;                               /* No border for labels */
-    margin: 0px;                                /* No margin for labels */
-}
-</string>
-        </property>
-        <property name="frameShape">
-         <enum>QFrame::StyledPanel</enum>
-        </property>
-        <property name="frameShadow">
-         <enum>QFrame::Raised</enum>
-        </property>
-        <widget class="QLabel" name="label_10">
-         <property name="geometry">
-          <rect>
-           <x>10</x>
-           <y>10</y>
-           <width>211</width>
-           <height>31</height>
-          </rect>
-         </property>
-         <property name="font">
-          <font>
-           <pointsize>-1</pointsize>
-          </font>
-         </property>
-         <property name="styleSheet">
-          <string notr="true">font-size: 16px;</string>
-         </property>
-         <property name="text">
-          <string>TOTAL INCOME</string>
-         </property>
-        </widget>
-        <widget class="QLabel" name="TotalEarnings_2">
-         <property name="geometry">
-          <rect>
-           <x>10</x>
-           <y>40</y>
-           <width>171</width>
-           <height>31</height>
-          </rect>
-         </property>
-         <property name="font">
-          <font>
-           <pointsize>18</pointsize>
-           <bold>true</bold>
-          </font>
-         </property>
-         <property name="text">
-          <string>₱48,345.67</string>
          </property>
         </widget>
        </widget>
