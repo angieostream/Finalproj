@@ -2,7 +2,6 @@
   <qresource prefix="gif">
     <file>D:/gif2.gif</file>
     <file>D:/analytics_dribbble_gif_gimp.gif</file>
-    <file>0ce63627-22f5-4edd-8aa4-0354da584418.jpg</file>
     <file>profiletb.png</file>
   </qresource>
   <qresource prefix="photo">
@@ -12,8 +11,8 @@
     <file>icons8-peso-16.png</file>
     <file>icons8-trash-16.png</file>
     <file>icons8-update-16.png</file>
-    <file>home.png</file>
     <file>D:/edit-property-16.ico</file>
+    <file>home.png</file>
     <file>D:/key-3-16.ico</file>
     <file>D:/credit-card-6-16.ico</file>
     <file>D:/user-3-16.ico</file>
